@@ -5,7 +5,7 @@ $namadepan = "Riyyadu";
 $namabelakang = "Solihin";
  
 for( $i= 1; $i <= 100; $i++) {
-    if ($i % 3 === 0 & $i % 5 === 0) {
+    if ($i % 3 === 0 && $i % 5 === 0) {
        echo "$namadepan $namabelakang<br>";
        
 
