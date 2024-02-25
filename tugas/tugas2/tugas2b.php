@@ -1,9 +1,10 @@
 <?php
-function pascal ($n, $r) {
-    if
+for( $y= 1; $y <= 10; $y++) {
+    
+    for ($x= 1; $x<= $y; $x++ ) {
+        echo "$x ";
+    }
+   
+    echo "<br>";
 }
 
-for( $i= 1; $i <= 100; $i++) {
-    echo "Hello World $i x! <br>";
-    
-}
