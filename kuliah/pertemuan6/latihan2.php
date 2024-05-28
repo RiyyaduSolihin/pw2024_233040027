@@ -1,12 +1,5 @@
 <?php
-// $mahasiswa = [
-//     ["M.Riyyadu Solihin", "233040027",
-// "riyyadu1234@gmail.com","Teknik Informatika"],
-//     ["Doddy Ferdiansyah", "033040001",
-// "doddy@gmail.com","Teknik Industri"]
-// ];
-// Array Associative
-//  key-nya adalah string yang kita buat sendiri
+
 $mahasiswa = [
     ["nama" => "M.Riyyadu Solihin", 
     "nrp" => "233040027",
